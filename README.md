@@ -4,9 +4,10 @@ Code and data for a corpus of German derivatives in context from Reddit.
 The dataset was created to finetune a BERT model to a derivative prediction task. If you do not need the data for this 
 purpose read the section "Derivatives ONLY"
 
-##Setup requirements
+## Setup requirements
 
-1. Download the DeReKo-2014-II-MainArchive-STT.100000.freq file from [here](https://www.ids-mannheim.de/digspra/kl/projekte/methoden/derewo/) into the *data* directory
+1. Install Python 3.9 and install dependencies from *requirements.txt*
+2. Download the DeReKo-2014-II-MainArchive-STT.100000.freq file from [here](https://www.ids-mannheim.de/digspra/kl/projekte/methoden/derewo/) into the *data* directory
 
 ## Create German derivative dataset
 ### Download Reddit data
