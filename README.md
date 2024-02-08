@@ -1,4 +1,4 @@
-# GermanDerivativeCorpus
+# Derivative Corpus in German
 Code and data for a corpus of German derivatives in context from Reddit.
 
 The data can be downloaded from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10637528.svg)](https://doi.org/10.5281/zenodo.10637528)
