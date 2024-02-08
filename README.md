@@ -67,5 +67,4 @@ included into BERTs vocabulary. You can do this, for example, by always returnin
 *check_token_stem_for_bert* and *token_in_bert* in *scripts/utils_reddit.py*
 
 You also do not need the "finetuning prep" step.
-=======
->>>>>>> parent of 7349c6f... initial commit
+
