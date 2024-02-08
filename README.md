@@ -1,4 +1,4 @@
-# GermanDerivativeCorpus
+# Derivative Corpus in German
 Code and data for a corpus of German derivatives in context from Reddit.
 
 The dataset was created to finetune a BERT model to a derivative prediction task. If you do not need the data for this 
